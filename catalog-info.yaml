@@ -4,7 +4,7 @@ metadata:
   name: sample-service
   description: demo service
   annotations:
-    github.com/project-slug: platfrom_engineering_training
+    github.com/project-slug: krishnabrp/platfrom_engineering_training
 spec:
   type: service
   owner: team-a
